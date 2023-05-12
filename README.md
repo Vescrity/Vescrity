@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Languages
+
+English/Chinese Available.  
+
+#### Programing Languages
+
+(sort by proficiency)
+
+1. C++
+2. Matlab
+3. Python
+
+
