@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Languages
+Just a student whose major is non-computer-related.  
 
 English/Chinese Available.  
 
-#### Programing Languages
 
-(sort by proficiency)
-
-1. C++
-2. Matlab
-3. Python
 
 
