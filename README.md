@@ -19,7 +19,7 @@ Just a student whose major is non-computer-related.
 
 English/Chinese Available.  
 
-![](https://github-contributor-stats.vercel.app/api?username=vescrity&limit=5&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=vescrity&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vescrity&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vescrity" /></p>
 
