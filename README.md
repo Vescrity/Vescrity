@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just a student whose major is non-computer-related.  
-
-English/Chinese Available.  
+LANG=zh_CN.UTF-8:en_US.UTF-8
 
 ![](https://github-contributor-stats.vercel.app/api?username=vescrity&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
